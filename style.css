@@ -1,0 +1,26 @@
+#myH1{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: white;
+    color: black;
+}
+
+
